@@ -17,7 +17,7 @@ This project is intentionally minimal to focus on clarity, execution, and clean 
 - CSS
 
 ## Live Demo
-👉 https://YOUR-NETLIFY-URL.netlify.app
+👉 https://landing-page-mini-project.netlify.app
 
 ## Project Goals
 - Practice setting up a React project with Vite
